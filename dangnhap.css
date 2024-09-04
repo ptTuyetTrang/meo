@@ -1,0 +1,72 @@
+body {
+    background-color: blue;
+}
+.container{
+    background-color: white;
+    margin:40px auto;
+    max-width:500px;
+    border-radius:10px;
+    text-align:center;
+}
+
+form {
+    margin: 0px;
+    padding-bottom:10px 15px;
+    box-sizing: border-box;
+}
+h1{
+    margin-bottom:10px;
+}
+input, .btn{
+    width:90%;
+    display:inline-block;
+    border-radius:5px;
+    border:1px solid grey;
+    margin-bottom:18px;
+    padding: 12px 1px;
+}
+.btn-submit{
+    background-color: blue;
+    color: white;
+}
+label
+{
+    padding: 10px;
+    margin-bottom: 300px;
+    line-height: 2;
+}
+.foggot{
+    margin-bottom:10px;
+    color:blue;
+    display:inline-block;
+}
+.face {
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    background-image: url(../Icon_html/icons8-facebook.svg);
+    background-repeat: no-repeat;
+    background-position: 5px;
+    background-size: 30px;
+}
+a{
+    text-decoration:none;
+}
+.line{
+    margin-bottom: 2px;
+    border: #AAAAAA solid 1px;
+    display: inline-block;
+    width:41%;
+}
+.center{
+    margin :0.5px 8px;
+    font-size: 15px;
+    color:grey;
+
+}
+.google{
+    background-image: url(../Icon_html/icons8-google.svg);
+    background-repeat: no-repeat;
+    background-position: 5px;
+    background-size: 30px;
+}

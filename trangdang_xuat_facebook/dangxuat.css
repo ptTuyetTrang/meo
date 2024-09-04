@@ -1,0 +1,53 @@
+body{
+    background-color: blue;
+}
+.container{
+margin: 40px auto;
+text-align: center;
+border-radius: 10px;
+width:400px;
+}
+form{
+    background-color: white;
+    padding:10px 5px;
+}
+input, .btn {
+    border-radius: 8px;
+    line-height: 5px;
+    display: inline-block;
+    width: 350px;
+    padding: 12px;
+}
+.line{
+    width:41%;
+    margin:0px 8px;
+    border-bottom: #aaa solid 1px;
+}
+.center{
+    font-size:10px;
+
+}
+label{
+    margin-bottom: 10px;
+}
+.face{
+    margin-top:5px;
+    background-color:#003399;
+    color: white;
+}
+.frame {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    border: black solid 2px;
+    padding: 15px;
+    width: 77%;
+}
+a{
+    text-decoration: none;
+}
+.google{
+
+}
+
